@@ -3,13 +3,10 @@
 Thumbs.db
 
 # Editors
-.vscode/
 .idea/
 *.swp
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 # Node (future local tooling run from this repo, e.g. markdown linting)
@@ -18,3 +15,4 @@ node_modules/
 # Build artifacts
 dist/
 build/
+config.bat
